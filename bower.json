@@ -1,0 +1,23 @@
+{
+  "name": "Bootstrap",
+  "authors": [
+    "MuhammadSaeid <muhammadsaeid0@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/MuhammadSaeid/Bootstrap-4",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6",
+    "font-awesome": "^5.6.1"
+  }
+}
